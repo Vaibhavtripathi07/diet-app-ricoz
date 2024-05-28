@@ -1,0 +1,79 @@
+{
+    "popular": [
+        {
+            "id": 1,
+            "Img": "https://s3-alpha-sig.figma.com/img/abaa/f1e8/e363de31c073c451baab758ba9e07b39?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JP4XZyaUI5XRHwWt9G5LX64w5pOA7qeVHoLk2WU8qHYxaVCZsN5eZlr4LrIXi6rMDkS33naZBdmcYXQlD1z6uc8muMFbugURGWlHAVkHNzbCsS24mFjaPV~ZeQNLHRd3eKVmJFKNiN1~KquQKXixzBE1TGsCULV7BZq7wZRsddHQYS2bcyjYiISD8ghvkY35qzqEW5hyCJa4vHt-4kt7sbEIrBLtOcbq2W6WWA1Jp1uhMPUIwZDM7lk~0g19KMWFBFtUJ04VifomQDbmFvgOD8UOesMMwj9LRFndxNg4ggJ87SDqegJL-yTH-0ggurrEBsTn7OJKtadTu6RvGwbUkQ__",
+            "name":"Chicken tikka masala",
+            "unsaved": "../../asset/unsaved.png",
+            "rating": "https://www.flaticon.com/free-icon/rating_992000?related_id=992000",
+            "calorie":"396 kcal"
+         },
+        {
+            "id": 2,
+            "Img": "https://s3-alpha-sig.figma.com/img/fab4/2e31/5082c13fff37c20d59924203904d9def?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PZlRST1IyVFVUwnJu0MfPHHjXr2tHxBALFo8oaUOQoQMBfOgFA7tXSfCp77V3SWMV6AAVtweV6TTGEN27alxoTVj57iwCv6SJTBqnqYNccqyz9p9Gr6WgMDwCSYWjqSyUHuC1lX~QrG4jkpVDoJ109OsjACnhlRYyq59jUyzkch2e2S47qZ1eUsVcDoYxn-dR7xbYrkeGr6eVNFoAKr6MPc9jsCibvdPr94uHadGNNkDp5apr~S0aQAN4J7iD-rw6Wr3pSrO8LBgNAKtsDYzWI7JjCeqyiS~z88K3K-t1c-HOzKlHgGAc-989j62L3MYiEVeAiniLOA-DUsFMAKZdQ__",
+            "name":"Avocado toast",
+            "unsaved": "../../asset/unsaved.png",
+            "rating": "https://www.flaticon.com/free-icon/rating_992000?related_id=992000",
+            "calorie":"501 kcal"
+         },
+        {
+            "id": 3,
+            "name":"Omelette roll up",
+            "Img": "https://s3-alpha-sig.figma.com/img/8104/ee28/e511fc743eb80f10e1d0c7ad5a91d9fe?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q6s5NECAZOoIsXDP2HPECBUeQOX8oWfW3fZPnLufnleJRUlalXYK2DyzorVzuYcQRW~6RzppAaifaZkmc8KpkkOG~JwF8MZZaSVaiWPOrrd-IqojVeWwIPqhe5BY-H0~evyALCoHdNL3ZhUqRbtPU59P5jWuwgBmQPYNJ9U-k9Sl-P0I~WR5OliKT1MS3u1Di011BZ7lIQ9janShyHW03IGvpC21Vx0EDwU7nlEhM41NTAIL3lJKR7ud2J5SIiq~SwuQYxdYQ-6T8JeK6GsOCyLkIKowB-wPLgJ1A9-jjS-dyfzzYklr-P~M5pvxNatYgKP9e7sGmZW2yRoh1HksQA__",
+            "unsaved": "../../asset/unsaved.png",
+            "rating": "https://www.flaticon.com/free-icon/rating_992000?related_id=992000",
+            "calorie":"501 kcal"
+         }
+        ],
+    
+         "Loved":[
+        {
+            "id": 1,
+            "Img": "https://s3-alpha-sig.figma.com/img/1d95/bd5a/bb4f11d3c6a8eab2c4efbf7e58688c85?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=AX6JmsNVxsUlNl9I-5Gu5K54Hc7v6c~lhQtNZWggcV1lgdqMMpgUJzkwZrpG27raLQvlxG24J1btChjIMmmG5jZhvhUWwfd4V2X2Z8Rpc16KHxcEa5v9d22Ql4zU3C5zla6mLo4o6K3Fc4mQmiDeBxH2dnqXr-i2vGBJEU1zldz0kUtXTxobtpq6P2hgUn78G4oiQX0IourUl7jPXNX~8KRUVpNh0PqgEhfiOtvV~ydTRNr4w9RJTdVLCEXau8nWV~4xDzHJS-FTsuFkjNx7Pgj4uz6HdqkLAzsyBkjPCh2cf7kU4z~1IR-ekWzGT9q5a24EyAzk0CI~~CRlxgu~IQ__",
+            "name":"Omelette roll up",
+            "unsaved": "../../asset/unsaved.png",
+            "rating": "https://www.flaticon.com/free-icon/rating_10801392?term=ratings&page=1&position=4&origin=search&related_id=10801392",
+            "calorie":"501 kcal"
+         },
+        {
+            "id":2,
+            "Img": "https://s3-alpha-sig.figma.com/img/b807/2f8f/2e857e6db36eacfea5a58be1ec36c69a?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=bjXODF8YOiW7sGmnlHNk3X7qHa0gnE6rFNEBvtMsHLD3Y3yERnEyngWQ9AmZvvoLR1RIHxe9oczsg8bURUB6MwFKceyMLXRkexogAdDXAOEqqtAfdpWD1~ixpiieJO90s9-o0cCLtm2Tf6xbPI2Y5Eez-43eKbwc0zJdOvSrl44za05~tOu6xoy1XudIQbeTTZ9Jmf-ZLvPfOjOq99tf28WTdV1V2O0NPE37vC3A7O69uTgyPqg7A8mkKCbz-Uf7TLvMK0yD-LqGWfx3N7KFPVpuidR-OZZWFEeikCa4m6Re2nU1DYqlB85dbV1bY1izrlnpMt6gnyOy5ztQBabwvg__",
+            "name":"Oats with sliced fruits",
+            "unsaved": "../../asset/unsaved.png",
+            "star": "https://www.flaticon.com/free-icon/rating_10801392?term=ratings&page=1&position=4&origin=search&related_id=10801392",
+            "calorie":"501 kcal"
+         },
+        {
+            "id": 3,
+            "Img": "https://s3-alpha-sig.figma.com/img/ed28/6095/a1d6df08e693ff3d1094b09502eb2394?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=K1Bh~wmIX-0AgnQsRnLl42BW~Kp1qnu-eG2b0ZcxZwxWzVN6K9ERgnY9ZtZdxUHQUMmavOt0ALPwLUPA6JlebtAJ0DRk~AoHQTtIIUpZmUO8XNIERV~FD89yCeHAGYizD22sDOUWVKyhs5d1t8p9VTG-NUdc~BxbsxnHdUanTkTBX8pYHAN7YszmYJOfCBVKp~ZQVqp~1Xsq59Xn56woODl9HQNBfsPTEJfuxY1BolvHcIKv~Pc-kQib63SBuUE2LC6zIRbH5RWintx5bRvVYm-O~HYVE8fHlthmTB13opgsWg2YuBzrLaqI2e6yOR1KozWsTOugufFfisQFqt8e1g__",
+            "name":"Pesto pasta",
+            "unsaved": "../../asset/unsaved.png",
+            "rating": "https://www.flaticon.com/free-icon/rating_10801392?term=ratings&page=1&position=4&origin=search&related_id=10801392",
+            "calorie":"501 kcal"
+        },
+        {
+            "id": 4,
+            "Img": "https://s3-alpha-sig.figma.com/img/abaa/f1e8/e363de31c073c451baab758ba9e07b39?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JP4XZyaUI5XRHwWt9G5LX64w5pOA7qeVHoLk2WU8qHYxaVCZsN5eZlr4LrIXi6rMDkS33naZBdmcYXQlD1z6uc8muMFbugURGWlHAVkHNzbCsS24mFjaPV~ZeQNLHRd3eKVmJFKNiN1~KquQKXixzBE1TGsCULV7BZq7wZRsddHQYS2bcyjYiISD8ghvkY35qzqEW5hyCJa4vHt-4kt7sbEIrBLtOcbq2W6WWA1Jp1uhMPUIwZDM7lk~0g19KMWFBFtUJ04VifomQDbmFvgOD8UOesMMwj9LRFndxNg4ggJ87SDqegJL-yTH-0ggurrEBsTn7OJKtadTu6RvGwbUkQ__",
+            "name":"Chicken tikka masala",
+            "unsaved": "../../asset/unsaved.png",
+            "rating": "https://www.flaticon.com/free-icon/rating_992000?related_id=992000",
+            "calorie":"501 kcal"
+         },
+        {
+            "id": 5,
+            "Img": "https://s3-alpha-sig.figma.com/img/fab4/2e31/5082c13fff37c20d59924203904d9def?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PZlRST1IyVFVUwnJu0MfPHHjXr2tHxBALFo8oaUOQoQMBfOgFA7tXSfCp77V3SWMV6AAVtweV6TTGEN27alxoTVj57iwCv6SJTBqnqYNccqyz9p9Gr6WgMDwCSYWjqSyUHuC1lX~QrG4jkpVDoJ109OsjACnhlRYyq59jUyzkch2e2S47qZ1eUsVcDoYxn-dR7xbYrkeGr6eVNFoAKr6MPc9jsCibvdPr94uHadGNNkDp5apr~S0aQAN4J7iD-rw6Wr3pSrO8LBgNAKtsDYzWI7JjCeqyiS~z88K3K-t1c-HOzKlHgGAc-989j62L3MYiEVeAiniLOA-DUsFMAKZdQ__",
+            "name":"Avocado toast",
+            "unsaved": "../../asset/unsaved.png",
+            "rating": "https://www.flaticon.com/free-icon/rating_992000?related_id=992000",
+            "calorie":"501 kcal"
+         },
+        {
+            "id": 6,
+            "Img": "https://s3-alpha-sig.figma.com/img/8104/ee28/e511fc743eb80f10e1d0c7ad5a91d9fe?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Q6s5NECAZOoIsXDP2HPECBUeQOX8oWfW3fZPnLufnleJRUlalXYK2DyzorVzuYcQRW~6RzppAaifaZkmc8KpkkOG~JwF8MZZaSVaiWPOrrd-IqojVeWwIPqhe5BY-H0~evyALCoHdNL3ZhUqRbtPU59P5jWuwgBmQPYNJ9U-k9Sl-P0I~WR5OliKT1MS3u1Di011BZ7lIQ9janShyHW03IGvpC21Vx0EDwU7nlEhM41NTAIL3lJKR7ud2J5SIiq~SwuQYxdYQ-6T8JeK6GsOCyLkIKowB-wPLgJ1A9-jjS-dyfzzYklr-P~M5pvxNatYgKP9e7sGmZW2yRoh1HksQA__",
+            "name":"Omelette roll up",
+            "unsaved": "../../asset/unsaved.png",
+            "rating": "https://www.flaticon.com/free-icon/rating_992000?related_id=992000",
+            "calorie":"501 kcal"
+         }
+    ]
+}

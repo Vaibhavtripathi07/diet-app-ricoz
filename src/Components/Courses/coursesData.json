@@ -1,0 +1,91 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Module 1",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+                {
+                    "id": 1,
+                    "title": "Introduction to Nutrition"
+                },
+                {
+                    "id": 2,
+                    "title": "Exploring the essential nutrients and their roles in the body"
+                },
+                {
+                    "id": 3,
+                    "title": "Distinguishing between macronutrients and micronutrients"
+                },
+                {
+                    "id": 4,
+                    "title": "Identifying the key components of a balanced diet"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Module 2",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Module 3",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Module 4",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+                
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Module 5",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Module 6",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Module 7",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Module 8",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Module 9",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Module 10",
+            "img":"../../asset/Accordian_arrow.png",
+            "modules": [
+            ]
+        }
+    ]
+}

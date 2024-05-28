@@ -1,0 +1,20 @@
+{
+    "sort":[
+        {
+            "id":1,
+            "filter":"Low to High"
+        },
+        {
+            "id":2,
+            "filter":"High to Low"
+        },
+        {
+            "id":3,
+            "filter":"Newest First"
+        },
+        {
+            "id":4,
+            "filter":"Most Popular"
+        }
+    ]
+}

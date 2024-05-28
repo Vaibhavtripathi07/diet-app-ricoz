@@ -1,0 +1,28 @@
+{
+    "Favourite": [
+        {
+            "id":1,
+            "image":"./asset/img_1.png",
+            "name": "Muscle Blaze- Snack Bars",
+            "liked":"./asset/liked.png",
+            "price": "Rs.399.00"
+        },
+        {
+            "id":1,
+            "image":"./asset/Dumbell.png",
+            "name": "Leeway-Dumbells",
+            "liked":"./asset/liked.png",
+            "weight":"10 kgs each",
+            "price": "Rs. 2,349.00",
+            "ori":"Rs. 3,799.00"
+        },
+        {
+            "id":2,
+            "image":"./asset/Penut_butter.png",
+            "name": "Chocolate Peanut Butter",
+            "liked":"./asset/liked.png",
+            "weight":"1 Kg",
+            "price": "Rs.799.00"
+        }
+    ]
+}

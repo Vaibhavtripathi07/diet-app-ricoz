@@ -1,0 +1,35 @@
+{
+   "categories": [
+        { 
+            "id" :1,
+            "Img":"./asset/Healthy_snacks.png",
+            "name":" Healthy Snacks and Bar"
+        },
+        { 
+            "id" :2,
+            "Img":"./asset/SuperFoods.png",
+            "name":"Super Foods and Supplements"
+        },
+        { 
+            "id" :3,
+            "Img":"../../asset/Cooking.png",
+            "name":"Cooking Ingredients"
+        },
+        { 
+            "id" :4,
+            "Img":"./asset/Healthy_Beverages.png",
+            "name":"Healthy Beverages"
+        },
+        { 
+            "id" :5,
+            "Img":"./asset/cookbook.png",
+            "name":"Cookbooks and Recipe guides"
+        },
+        { 
+            "id" :6,
+            "Img":"./asset/fitness_equipment.png",
+            "name":"Fitness Equipments"
+        }
+    
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "Ques": [
+        {
+            "id": 1,
+            "Ques": "What are your Primary Goals for the Meal Plan?",
+            "options": [
+                "Weight Loss",
+                "Weight Gain",
+                "General Health Improvement",
+                "Manage Specific Health Condition"
+            ]
+ 
+       
+        },
+        {
+            "id": 2,
+            "Ques": "Do you have any dietary preferences or restrictions?",
+            "options": [
+                "Vegetarian",
+                "Vegan",
+                "Gluten-free",
+                "Other"
+            ],
+            "textareaRows": 4,
+            "textareaCols": 4
+        
+        },
+        {
+            "id": 3,
+            "Ques": "Do you have any food you dislike or are allergic to?",
+            "options": [
+                "Yes",
+                "No"
+            ],
+            "textareaRows": 4,
+            "textareaCols": 4
+        
+        },
+        {
+            "id": 4,
+            "Ques": "Do you have any Health condition?",
+            "options": [
+                "Yes",
+                "No"
+            ]
+          
+          
+        },
+        {
+            "id": 5,
+            "Ques": "How many meals do you want to have per day?",
+            "options": [
+                2,
+                3,
+                4,
+                5
+            ]
+          
+        },
+        {
+            "id": 6,
+            "Ques": "How much time would you like to spend on meal preparation?",
+            "options": [
+                "Less than 30 mins",
+                "30-60 mins",
+                "more than 60 mins"
+            ]
+       
+        },
+        {
+            "id": 7,
+            "Ques": "How comfortable are you with cooking and meal preparation?",
+            "options": [
+                "Beginner",
+                "Intermediate",
+                "Advanced"
+            ]
+          
+        },
+        {
+            "id": 8,
+            "Ques": "Are there any specific cuisines or types of foods you enjoy or would like to include in your meal plan? Specify. (for eg; Indian, Continental, etc.)?",
+            "options": [
+            
+            ],
+            "textareaRows": 5,
+            "textareaCols":5 
+          
+        }
+    ]
+}

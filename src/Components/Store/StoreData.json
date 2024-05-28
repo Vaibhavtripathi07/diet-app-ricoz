@@ -1,0 +1,34 @@
+{
+    "store":[
+        {
+            "id":1,
+            "img":"https://s3-alpha-sig.figma.com/img/2108/e010/516a3d1227b256b904ab6e3d5d2af1a7?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=jwz~pbqLL6UTMA65TlI73DgFpEynIEzAT9HmmlLlnZB73fRloY29Pdn2XrGp3f04jJI2cjpG-d~46uALyPXZ-sTIqtZ5FdYZm4CzUTUdXxrRNWGdDAOH3BOk31crmtOElWW3ouKxse~piDNyc0n8uQfiYmQmFsw4jOZk2~pQ3rvKIPaXpUVQQOATfaexshOPuhLsFofsfkyu3HAqayp2G1TJL6lXSc9DQcr1HSbbiVfDa-Y873PhTKjyspnCOpZkU6NSpp~Z3D8BvSAoQwQo9KfDOswY7O6hUId7cMuo4EKvFOipwI-ZnZTLaNPVl6tZAJDZ3yeaDsXAMg2OY2RzRg__",
+            "name":"Muscle Blaze - Snack Bars",
+            "price":"Rs 399.00",
+            "heart":"",
+            "star":"",
+            "rating":"5.0"
+
+        },
+        {
+            "id":2,
+"img":"https://s3-alpha-sig.figma.com/img/6e3d/00d9/3fbc32977f27f0ed30dafbe723a402c4?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=dZ1owrv03PRSV4J-rjJh7uxZ-yNlPgjKeOmpIK~YBkVDRqDKTLnAjx5Cmh4FMkB~aT-vd3Hk-xPn9-9zCVk0aIOFfg5HLPTMgZNbFD~p3ziRMCIa71BzeklISZJfTgw75uoH1voENeuZ8wIupd-w-0UPQ7FyCFnz0STOR9hJWl-zsY~i4W7OEeEipqsLSH~oD6jtpazLbin6o4kiNGGzHH4hGalappAkxHan-DfgaF5xEn~0jShkbiCpzF4~RcPx44iypAqN2k2KLIP09rO3Z9skmzB4Gf~NRXo6YjS5h2CZRe3xbF9OPgyCurhIiNkvXW7bOXwyBMhnniPAdar2Dg__",
+            "name":"Yogabar - Energy Bars",
+            "price":"Rs 399.00",
+            "heart":"",
+            "start":"",
+            "rating":"5.0"
+
+        },
+        {
+            "id":3,
+            "img":"https://s3-alpha-sig.figma.com/img/f35a/d895/6531c3eded454a1cf0ab3b9a18ad74d3?Expires=1705881600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=FEglvCelOhuOsaXp9XbKtl6b0Y6c~OymnwgBFSwqqUDcJ6RYovw-PZSEwaAxZWJzHStlcTqitA97~68GAxcSAI~OzTc7oqtRJaHF-vdx8rcw0FqZaN5XQP6c7RhABXcjKzpbslTHfPghKFikxbyhhWCB4q5ymqlWcaspmdKtLA-6ikDatlw56fA9tmryxOKjHViEUppWHrkFusrPQ~xlpB7qNjVp6sRD6wjzAMeX26wlJdbpLseX7DaanI501Kco~1HOUwELDFjEq5fgn2vanbEwAUubgSfEctbX4sF~W-qfmioXgyknRiEFJMdIKoZZLteLaG297ziK5TQaKFlUow__",
+            "name":"Stay fit - Yoga Mat",
+            "price":"Rs 399.00",
+            "heart":"",
+            "start":"",
+            "rating":"5.0"
+
+        }
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "Meal": [
+        {
+            "id": 1,
+            "name": "Vegan Meal Plan",
+            "img":"https://s3-alpha-sig.figma.com/img/af29/5750/8ffc5851e3cb8f01381737882ba6f4ea?Expires=1704672000&Signature=iezbe-uWV8YH5PvpJfdSssyUAuKRfYQ8nxunxKJ5D6I453~n983Z-2pYL~gC-EEJc3egbkKZ~JU6zVp6I5vEZyXTte962tVPveEGjNJbgx6tDx97xBTp-cBFNPJ7pVVvkFYBVnOZDK3TlZHdWa3Kp2z-u9VAjuTkz0ByfulHXypG23Qi-IzQaOFM4pVKc~K89t3lFjslk4WFJrziXPgqVj5hu8hFmzqE8nbJkYvb83wg2WeXNZGC7GKsZL~P46gNxdfa~SXVIIpemed29Dy9VLxLnpawgluLLa2EMJTNcRDBi0Skw97DTxp6OZzeWC~0J6itFTrku6lIGaW2VHK0vg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "desc":"Plant-based proteins, healthy fats, vitamins, and minerals",
+            "starts":"Starts @",
+            "price":"599/-"
+        }, 
+        {
+            "id": 2,
+            "name": "Keto Meal Plan",
+            "img":"https://s3-alpha-sig.figma.com/img/b099/961c/fd1d4533fd0d1fe2f0345a069bcbad33?Expires=1704672000&Signature=KIK0zV5ozldGT1-Ap1jolOAEFijF1ZMKBDPrZA~shJochqW~5pYRdwv4E-sZVJcOSsKh3Tkm3o5-LKkQBRMmHpgLUfW1SV3-ZrFOkaShtJf45zYkk57KUo1OHo0ZOQiIwR7WlzLq4OomF3nWMDx6a2wru8DVsDxZonhGOpUw-tb06XCsiumcbwPG6jyOTxnvkGPEltTw9Yq4pket647VP7Eqp0xm9nRP7tgPHye2D~6NSbnoQHOjiOWGdr4WOhq8rQrdyrry3o4Sh2c63QdmlDfzFJ92VFbgUO7nNf5NFLqFlywctvzpyJjQoAnxy~60NgkWU1fQjQPt-Mx2qDLWwA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "desc":"Low-carb, high-fat diet to promote ketosis and fat burning.",
+            "starts":"Starts @",
+            "price":"599/-"
+        }, 
+        {
+            "id": 3,
+            "name": "Classic Meal Plan",
+            "img":"https://s3-alpha-sig.figma.com/img/a1cb/745f/b4e1cd5d9221fcbd466010a9ca497e0d?Expires=1704672000&Signature=iQ7j0auNDtiEBFH8y88WQeMMCDNMRWZozVXQHcniF4-y4GNa0xURfbfrsuR3KTYObQMlupo05OAgeokV~GRn73A75Eq-o4KwHZ1dn~JKd4SuQUZcYLEX1Vnzvh1xFInDzNtjvGkUXyT2Eehgq2KiF9KOXRH6AMduHLOrlGqDSxomRAkYoASmA3ddTGXc1jVR42LO0n1bQUQxHiXk6Er2tgOWka4LRD6MJp1eaA2R9I4icoC1lY~p61KqHUDAV3myMDH~WTYcQcRcNuVXgOF295zJcns0SmS1FLpogo~Lx1w3zrNQfcmMkfLBLrbMbq4CFG5NJgFdFsF4WWwusFE9oA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "desc":"Balanced and varied eating plan with a focus on whole foods.",
+            "starts":"Starts @",
+            "price":"599/-"
+        }, 
+        {
+            "id": 4,
+            "name": "Gluten-free Meal Plan",
+            "img":"https://s3-alpha-sig.figma.com/img/7e78/975f/fd1e9cb9dea28ac1095a971ef14700ce?Expires=1704672000&Signature=MqVnfs23ohqO63CWPy3rCOtdZ8OUsMMyFBrCfABBpSstRvOTVD2rCBiNFYJOSH6iNgAxrtDfW0GuvhY7~IhkWvEpR8IK6NwDrxwV9ofN5DSJ7vRlm1sDHUzcWkPomevC7RrcUYEtX0S3xHdh4sXur84qKVufDcYG2Vl9XD~f43TkZKr4t3toNr1Hmlh1VchSUetvfqgG7cA7oF2KFoCPYgkuGCWLkM1uAwaAgCNgwWVHsGKXGYfy5VYa4XNIeY5Go9JxfGkVUuOLr1D~101zK2~oWFMiVRIIcTpy24~ho9Hwv9Y0r8EE7OASG3wze70JDOYt8giTIoFrkxtJZBMHgA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "desc":"Avoidance of gluten-containing foods for individuals with gluten sensitivities or celiac disease.",
+            "starts":"Starts @",
+            "price":"599/-"
+        }, 
+        {
+            "id": 5,
+            "name": "Low- Fat Meal Plan",
+            "img":"https://s3-alpha-sig.figma.com/img/32f7/3c27/bcaf4b515b35c2befb9a8ca2d43831c0?Expires=1704672000&Signature=ea2DDtVE1UjMLe1Quqe80E0Kqgrfao5iQCuptBvlHBdCEhFvL91Isa~EuJj5tY-EnWUve6-S1H~ItjBRFDfwOYtioV8KuYZtSr4PUn~YAtXw-2p9W9pBjdvRGU5ip6~4fBJh2CIi2Tj8wdegGjHLoFcoFreAX3~NUSnbWHR4D9AK37BT5M8rI2RCKeS1eRP02E6brKBcjybO2~i~SN4f6NDT2vhdtSAJ28C0tlrDAklf~tecqHaB3tvYdKRKkXEl4cbU2AsqskUna2nLTDP70OukIJS99VkFSCJOvyg2jbqlnTVVgTrQMrYf1ICfK3xmRKormKPtoHxLA4uRjYLFzQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+            "desc":"Emphasis on low-fat foods for heart health and weight management.",
+            "starts":"Starts @",
+            "price":"599/-"
+        }
+
+    ],
+    "Member":[
+        {
+            "id":1,
+            "month":"1 Month",
+            "benifit1":"Flexibility of monthly renewal.",
+            "benifit2":"Try out the plan with minimal commitment.",
+            "Cost":"Rs. 599.00"
+        },
+        {
+            "id":2,
+            "month":"3 Month",
+            "benifit1":"Additional savings compared to the 1-month plan.",
+            "benifit2":"Continued convenience and access to the plan ",
+            "Cost":"Rs. 1,299.00",
+            "Actual_Cost":"Rs.1797.00"
+        },
+        {
+            "id":3,
+            "month":"6 Month",
+            "benifit1":"Additional savings compared to the 1-month & 3-month plan",
+            "benifit2":"Consistent support for your 6-month plan duration.",
+            "Cost":"Rs. 2,499.00",
+            "Actual_Cost":"Rs.3,594.00"
+        },
+        {
+            "id":4,
+            "month":"12 Month",
+            "benifit1":"Maximum savings than  shorter duration plans.",
+            "benifit2":"Enjoy consistent meal support. No payment hassle for an year ",
+            "Cost":"Rs. 1,299.00",
+            "Actual_Cost":"Rs.7188.00"
+        }
+    ]
+
+}
+
